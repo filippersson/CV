@@ -1,6 +1,9 @@
 
 ## Short CV using moderncv 
 
+![Image](cv_screenshot.png)
+
+
 ## Template
 [github.com/moderncv/moderncv](https://github.com/moderncv/moderncv).
 
