@@ -1,0 +1,48 @@
+\begin{thebibliography}{1}
+
+\bibitem{halle2013analysis}
+Bertil Halle and Filip Persson.
+\newblock Analysis of protein dynamics simulations by a stochastic point process approach.
+\newblock {\em Journal of Chemical Theory and Computation}, 9(6):2838--2848, 2013.
+
+\bibitem{ljung2021zeal}
+Filip Ljung and Ingemar Andr{\'e}.
+\newblock Zeal: Protein structure alignment based on shape similarity.
+\newblock {\em Bioinformatics}, 37(18):2874--2881, 2021.
+
+\bibitem{ad60c457994040b3b2d3186153b9204b}
+Filip Persson.
+\newblock {\em Protein-water interactions studied by molecular dynamics simulations}.
+\newblock Doctoral thesis (compilation), Biophysical Chemistry, 2018.
+
+\bibitem{persson2013transient}
+Filip Persson and Bertil Halle.
+\newblock Transient access to the protein interior: Simulation versus nmr.
+\newblock {\em Journal of the American Chemical Society}, 135(23):8735--8748, 2013.
+
+\bibitem{persson2015amide}
+Filip Persson and Bertil Halle.
+\newblock How amide hydrogens exchange in native proteins.
+\newblock {\em Proceedings of the National Academy of Sciences}, 112(33):10383--10388, 2015.
+
+\bibitem{persson2018compressibility}
+Filip Persson and Bertil Halle.
+\newblock Compressibility of the protein-water interface.
+\newblock {\em The Journal of Chemical Physics}, 148(21), 2018.
+
+\bibitem{persson2018geometry}
+Filip Persson, P{\"a}r S{\"o}derhjelm, and Bertil Halle.
+\newblock The geometry of protein hydration.
+\newblock {\em The Journal of Chemical Physics}, 148(21), 2018.
+
+\bibitem{persson2018proteins}
+Filip Persson, P{\"a}r S{\"o}derhjelm, and Bertil Halle.
+\newblock How proteins modify water dynamics.
+\newblock {\em The Journal of chemical physics}, 148(21), 2018.
+
+\bibitem{persson2018spatial}
+Filip Persson, P{\"a}r S{\"o}derhjelm, and Bertil Halle.
+\newblock The spatial range of protein hydration.
+\newblock {\em The Journal of Chemical Physics}, 148(21), 2018.
+
+\end{thebibliography}
